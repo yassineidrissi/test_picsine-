@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 #include <stdio.h>
-//just test its work or not
+//just test its work or notff
 
 int main()
 {
